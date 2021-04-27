@@ -1,0 +1,12 @@
+#use Auto matice massage
+print('hello!')
+x=input("what is your name")
+print("nice too meet you"+x)
+#Samnay 2 kodom asly pichonay 3 kodom pichabay ar jodi 6 kodom agay taholy 
+#koy kodom pichabay
+
+step_com=int(input("Total Step" ))
+step=int(input("Frist Step"))
+back=int(input("Re back "))
+cal=(step_com/step)*back
+print(int(cal))
